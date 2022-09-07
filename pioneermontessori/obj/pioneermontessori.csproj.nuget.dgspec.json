@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Projects\\pioneermontessori\\pioneermontessori\\pioneermontessori.csproj": {}
+    "F:\\Projects\\pioneermontessori2022\\pioneermontessori\\pioneermontessori.csproj": {}
   },
   "projects": {
-    "F:\\Projects\\pioneermontessori\\pioneermontessori\\pioneermontessori.csproj": {
+    "F:\\Projects\\pioneermontessori2022\\pioneermontessori\\pioneermontessori.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Projects\\pioneermontessori\\pioneermontessori\\pioneermontessori.csproj",
+        "projectUniqueName": "F:\\Projects\\pioneermontessori2022\\pioneermontessori\\pioneermontessori.csproj",
         "projectName": "pioneermontessori",
-        "projectPath": "F:\\Projects\\pioneermontessori\\pioneermontessori\\pioneermontessori.csproj",
+        "projectPath": "F:\\Projects\\pioneermontessori2022\\pioneermontessori\\pioneermontessori.csproj",
         "packagesPath": "C:\\Users\\AMIT - PC\\.nuget\\packages\\",
-        "outputPath": "F:\\Projects\\pioneermontessori\\pioneermontessori\\obj\\",
+        "outputPath": "F:\\Projects\\pioneermontessori2022\\pioneermontessori\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
